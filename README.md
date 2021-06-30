@@ -3,7 +3,7 @@ Perfil mais inútil que existe no github. Se você clicou no meu perfil, provave
 
 > O amor é a única coisa que somos capazes de perceber que transcende as dimensões do tempo e do espaço, talvez devamos confiar nele. - Dr° Brand, interestelar.
 
-#### Links? <br>
+#### Links inúteis? <br>
 [![Chat-Telegram](https://img.shields.io/badge/Chat-Telegram-blue.svg)](https://t.me/leancelot)
 [![Canal-Telegram](https://img.shields.io/badge/Canal-Telegram-blue.svg)](https://t.me/hrleshit)
 [![Perfil-Twitter](https://img.shields.io/badge/Perfil-Twitter-blue.svg)](https://twitter.com/leancelot)
