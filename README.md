@@ -9,6 +9,6 @@ Perfil mais inútil que existe no github. Se você ficou curioso, provavelmente 
 [![Perfil-Twitter](https://img.shields.io/badge/Perfil-Twitter-blue.svg)](https://twitter.com/leancelot)
 [![Playlists-youtube](https://img.shields.io/badge/Playlists-Youtube-red.svg)](https://www.youtube.com/channel/UCAQhymExVUV3_718hFKHPFw/playlists)
 [![site-bosta](https://img.shields.io/badge/Blog-Bundao-red.svg)](https://bundao.netlify.app)
-[![MyAnimeList](https://img.shields.io/badge/Listinha-MAL-red.svg)](https://t.me/leancelot)
+[![MyAnimeList](https://img.shields.io/badge/Listinha-MAL-red.svg)](https://myanimelist.net/animelist/leancelot&view=list&status=7)
 
     Feito com muita noobse 🤝 @leancelot
