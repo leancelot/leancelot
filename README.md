@@ -1,5 +1,5 @@
 ### Hmmmm
-Perfil mais inútil que existe no github. Se você ficou curioso, provavelmente não bate bem da cabeça. Infelizmente sou péssimo programando e pior ainda na vida sendo otaku fedido que gosta de aosp. Está aqui ainda? socorro, ele quer me comer.
+Perfil mais inútil que existe no github. Se você ficou curioso, provavelmente não bate bem da cabeça. Infelizmente sou péssimo programando e pior ainda na vida sendo otaku fedido que gosta de aosp. Está aqui ainda? socorro, essa pessoa quer me comer.
 
 > O amor é a única coisa que somos capazes de perceber que transcende as dimensões do tempo e do espaço, talvez devamos confiar nele. - Dr° Brand, interestelar.
 
