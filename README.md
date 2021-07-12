@@ -12,7 +12,7 @@ Perfil mais inútil que existe no github. Se você ficou curioso, provavelmente 
 [![MyAnimeList](https://img.shields.io/badge/Listinha-MAL-red.svg)](https://myanimelist.net/animelist/leancelot&view=list&status=7)
 
 #### Scrobbles:
-<p align="center">
+<p align="left">
   <a href="https://www.last.fm/user/hileancelot" > <img src="https://lastfm-recently-played.vercel.app/api?user=hileancelot&count=5" alt="Last.FM" /></a>
 </p>
 
