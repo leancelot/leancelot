@@ -1,9 +1,10 @@
-### Hmmmm
-Perfil mais inútil que existe no github. Se você ficou curioso, provavelmente não bate bem da cabeça. Infelizmente sou péssimo programando e pior ainda na vida sendo otaku fedido que gosta de aosp. Está aqui ainda? socorro, essa pessoa quer me comer.
+#### ✨ Yo, welcome to profile more useless that exist ✨
 
-> O amor é a única coisa que somos capazes de perceber que transcende as dimensões do tempo e do espaço, talvez devamos confiar nele. - Dr° Brand, interestelar.
+Se ficou curioso, provavelmente não bate bem da cabeça. Infelizmente sou péssimo programando em python e pior ainda na vida sendo otaku fedido que gosta de aosp. Está aqui ainda? socorro, essa pessoa quer me comer. 
 
-#### Links inúteis? <br>
+> O amor é a única coisa que somos capazes de perceber que transcende as dimensões do tempo e do espaço, talvez devamos confiar nele. - Dra. Brand, interestelar.
+
+#### Links inúteis?
 [![Chat-Telegram](https://img.shields.io/badge/Chat-Telegram-blue.svg)](https://t.me/leancelot)
 [![Canal-Telegram](https://img.shields.io/badge/Canal-Telegram-blue.svg)](https://t.me/hrleshit)
 [![Perfil-Twitter](https://img.shields.io/badge/Perfil-Twitter-blue.svg)](https://twitter.com/leancelot)
