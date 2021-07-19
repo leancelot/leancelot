@@ -2,7 +2,7 @@
 
 Se ficou curioso, provavelmente não bate bem da cabeça. Infelizmente tenho péssimo hobby em programar usando python e pior ainda na vida sendo otaku fedido que gosta de aosp. Está aqui ainda? socorro, essa pessoa quer me comer ୧( ˵ ° ~ ° ˵ )୨ 
 
-Agora aquela frase de efeito para ficar bonito:
+(◠‿・)—☆ Agora aquela frase de efeito:
 > O amor é a única coisa que somos capazes de perceber que transcende as dimensões do tempo e do espaço, talvez devamos confiar nele. - Dra. Brand, interestelar.
 
 #### Links inúteis ୧(＾ 〰 ＾)୨
