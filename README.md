@@ -1,4 +1,4 @@
-#### ✨ Yo, welcome to profile more useless that exist ✨
+#### Yo, welcome to profile more useless that exist
 
 Se ficou curioso, provavelmente não bate bem da cabeça. Infelizmente sou péssimo programando em python e pior ainda na vida sendo otaku fedido que gosta de aosp. Está aqui ainda? socorro, essa pessoa quer me comer. 
 
