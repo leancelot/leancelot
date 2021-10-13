@@ -1,3 +1,5 @@
+<img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="right" width="100"/>
+
 #### > Yo, welcome to profile more useless that exist :0
 Se ficou curioso, provavelmente não bate bem da cabeça. Infelizmente tenho péssimo hobby em programar usando python e pior ainda na vida sendo otaku fedido que gosta de aosp. Está aqui ainda? socorro, essa pessoa quer me comer ୧( ˵ ° ~ ° ˵ )୨ 
 
@@ -13,4 +15,3 @@ Se ficou curioso, provavelmente não bate bem da cabeça. Infelizmente tenho pé
 </p>
 
 > Feito com muita noobse 🤝 @leancelot
-<img src="https://64.media.tumblr.com/34784257378ce2c51675599159735772/tumblr_nd3b8i2gL01sedjuto1_400.gifv" align="left" width="100"/>
