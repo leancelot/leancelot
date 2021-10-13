@@ -9,7 +9,7 @@ Se ficou curioso, provavelmente não bate bem da cabeça. Infelizmente tenho pé
 
 #### Scrobbles ♪(┌・。・)┌
 <p align="left">
-  <a href="https://www.last.fm/user/hileancelot" > <img src="https://lastfm-recently-played.vercel.app/api?user=hileancelot&count=4" alt="Last.FM" /></a>
+  <a href="https://www.last.fm/user/hileancelot" > <img src="https://lastfm-recently-played.vercel.app/api?user=hileancelot&count=5" alt="Last.FM" /></a>
 </p>
 
 > Feito com muita noobse 🤝 @leancelot
